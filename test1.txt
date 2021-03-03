@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 38E6-A5B8
+
+ Directory of C:\Users\user\Desktop\PROJ
+
+03/03/2021  02:21 PM    <DIR>          .
+03/03/2021  02:21 PM    <DIR>          ..
+03/03/2021  02:19 PM    <DIR>          .git
+03/03/2021  02:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  186,296,082,432 bytes free
